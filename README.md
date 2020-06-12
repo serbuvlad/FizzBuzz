@@ -2,7 +2,7 @@ FizzBuzz
 ========
 
 This is FizzBuzz, as implemented by me. The C version is a hack. If you know
-amd64 assembly you are encouraged to read to read that verion instead, as it's
+amd64 assembly you are encouraged to read that verion instead, as it's
 much cleaner.
 
 Building
